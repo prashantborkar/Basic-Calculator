@@ -1,4 +1,4 @@
 console.log("Hello world");
 
-alert("Hello");
+// alert("Hello");
 
